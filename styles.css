@@ -1,0 +1,17 @@
+body {
+    background-color: #45484a;
+    color: white;
+}
+
+b {
+    color: #ffff72;
+}
+
+h1 {
+    text-align: center;
+    padding: 1%;
+}
+
+main, div {
+    padding: 2%;
+}
