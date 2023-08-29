@@ -1,8 +1,27 @@
 body {
-    /*background-color: rgb(200, 100, 100);*/
+    background-color: rgb(67, 75, 77);
 }
 
 h1 {
     color: #22a374;
+}
+
+.centered{
     text-align: center;
+}
+
+iframe{
+    height: 360px;
+    width: 50%;
+    frameborder: 0;
+}
+
+main{
+    color: orange;
+    margin-right: 4%;
+    margin-left: 3%;
+}
+
+nav{
+    margin-left: 2%;
 }
